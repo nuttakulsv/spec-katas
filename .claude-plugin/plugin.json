@@ -1,0 +1,9 @@
+{
+  "name": "spec-katas",
+  "version": "0.1.0",
+  "description": "Practise turning vague requests into clear specs. Your agent plays a stakeholder with hidden facts; you ask questions, write a spec, and get a debrief on what you found, what you missed and what would have been built.",
+  "author": { "name": "nuttakulsv" },
+  "homepage": "https://github.com/nuttakulsv/spec-katas",
+  "license": "MIT",
+  "keywords": ["requirements", "product", "specs", "katas", "role-play", "engineering"]
+}
